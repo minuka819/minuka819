@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Minuka Hewapathirana
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning how to apply R programming to produce pipelines for metagenomics analysis
-- 💞️ I’m looking to collaborate on bioinformatics projects which use R or Python Programming
+- 👋 Welcome to my GitHub Page
+- 👀 I am a Master's Graduate of Science specializing in Data Science and Bioinformatics! 
+- 🌱 I am currently working on applying R, Python and SQL to produce pipelines for metagenomics analysis
+- 💞️ You can take a look at my projects pinned here! I am constantly updating my portfolio with data analysis and bioinformatics projects!
 - 📫 Reach me @ Linked in: www.linkedin.com/in/minuka-hewapathirana 
 
 <!---
