@@ -21,8 +21,8 @@ Here are some tools and technologies I love to work with:
 - **Tools:** VSCode, Git, JIRA
 ---
 ## 🌟 Highlights  
-🔭 **I’m currently working on:** Open Source Projects  
-🌱 **I’m currently learning:** Advannced SQL, SAS, TensorFlow, Machine Learning  
+🔭 I’m currently working on:** Open Source Projects  
+🌱 I’m currently learning:** Advannced SQL, SAS, TensorFlow, Machine Learning  
 ---
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
