@@ -1,14 +1,9 @@
 # Hi there! 👋 I'm Minuka! 
-
-Welcome to my GitHub profile!  
-I am a passionate Data Analyst and Bioinformatician with a love for building solutions that make an impact.  
 ---
 ## 🚀 About Me  
-
 - 🌟 Enthusiast in **Data Analysis and Computational Biology**  
 - 🎯 Focused on creating **Scalable pipelines and data driven solutions**  
 - 💡  Always learning and exploring **New ways to clean, process and analyze DATA!**
-
 ---
 ## 🔧 Technologies & Tools  
 
@@ -25,7 +20,7 @@ Here are some tools and technologies I love to work with:
 ---
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
-[![Minuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=minuka819)](https://github.com/minuka819/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minuka819&hide=javascript,css,scss,html&theme=tokyonight)
 ---
 ## 📬 Connect with Me    
 💼 [LinkedIn](https://www.linkedin.com/in/minukahp/)  
