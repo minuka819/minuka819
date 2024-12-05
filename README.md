@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!  
 I am a passionate Data Analyst and Bioinformatician with a love for building solutions that make an impact.  
-
 ---
 ## 🚀 About Me  
 
@@ -24,7 +23,6 @@ Here are some tools and technologies I love to work with:
 - 🔭  **I’m currently working on:** Open Source Projects  
 - 🌱  **I’m currently learning:** Advannced SQL, SAS, TensorFlow, Machine Learning  
 ---
-
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuka819&layout=compact&theme=radical)  
