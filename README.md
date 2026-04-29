@@ -15,8 +15,8 @@ Here are some tools and technologies I love to work with:
 - **Tools:** VSCode, Git, JIRA, Nano, 
 ---
 ## 🌟 Highlights 
-- 🔭  **I’m currently working on:** Metagenomics and SNP Applications @ AGC   
-- 🌱  **I’m currently learning:** Advannced python scripting, Random Forest applications, Machin  
+- 🔭  **Currently working on:** Metagenomics and SNP Applications @ AGC   
+- 🌱  **Currently learning:** Advannced python scripting, Random Forest applications, Machine learning  
 
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
