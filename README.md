@@ -10,12 +10,12 @@
 Here are some tools and technologies I love to work with:  
 
 - **Languages:** Python, JavaScript, R, SQL, Linux Bash Scripting 
-- **Frameworks & Libraries:** QIIME2, Pandas, NumPy, React, Node.js, Django, TensorFlow
+- **Frameworks & Libraries:** QIIME2, Minimap2, Pandas, NumPy, React
 - **Databases:** MySQL,Google BigQuery, MongoDB 
 - **Tools:** VSCode, Git, JIRA, Nano, 
 ---
 <!-- ## 🌟 Highlights 
-- 🔭  **I’m currently working on:** Open Source Projects  
+- 🔭  **I’m currently working on:** Metagenomics and SNP Applications @ AGC   
 - 🌱  **I’m currently learning:** Advannced python scripting, Random Forest applications, Machine Learning  
 --- --!>
 ## 📈 GitHub Stats  
