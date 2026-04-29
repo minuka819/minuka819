@@ -9,10 +9,10 @@
 
 Here are some tools and technologies I love to work with:  
 
-- **Languages:** Python, JavaScript, SQL, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Django, TensorFlow
+- **Languages:** Python, JavaScript, R, SQL, Linux Bash Scripting 
+- **Frameworks & Libraries:** QIIME2, Pandas, NumPy, React, Node.js, Django, TensorFlow
 - **Databases:** MySQL,Google BigQuery, MongoDB 
-- **Tools:** VSCode, Git, JIRA
+- **Tools:** VSCode, Git, JIRA, Nano, 
 ---
 <!-- ## 🌟 Highlights 
 - 🔭  **I’m currently working on:** Open Source Projects  
