@@ -14,9 +14,10 @@ Here are some tools and technologies I love to work with:
 - **Databases:** MySQL,Google BigQuery, MongoDB 
 - **Tools:** VSCode, Git, JIRA, Nano, 
 ---
-<!-- ## 🌟 Highlights 
+## 🌟 Highlights 
 - 🔭  **I’m currently working on:** Metagenomics and SNP Applications @ AGC   
-- 🌱  **I’m currently learning:** Advannced python scripting, Random Forest applications, Machine Learning  
+- 🌱  **I’m currently learning:** Advannced python scripting, Random Forest applications, Machin  
+
 --- --!>
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
