@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🌟 Enthusiast in **Data Analysis and Computational Biology**  
 - 🎯 Focused on creating **Scalable pipelines and data driven solutions**  
-- 💡  Always learning and exploring **New ways to clean, process and analyze DATA!**
+- 💡  Always learning and exploring **new ways to CLEAN, PROCESS and analyze DATA!**
 ---
 ## 🔧 Technologies & Tools  
 
@@ -16,7 +16,7 @@ Here are some tools and technologies I love to work with:
 ---
 <!-- ## 🌟 Highlights 
 - 🔭  **I’m currently working on:** Open Source Projects  
-- 🌱  **I’m currently learning:** Advannced SQL, SAS, TensorFlow, Machine Learning  
+- 🌱  **I’m currently learning:** Advannced python scripting, Random Forest applications, Machine Learning  
 --- --!>
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
