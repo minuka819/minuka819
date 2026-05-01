@@ -12,7 +12,7 @@ Here are some tools and technologies I love to work with:
 - **Languages:** Python, JavaScript, R, SQL, Linux Bash Scripting 
 - **Frameworks & Libraries:** QIIME2, Minimap2, Pandas, NumPy, React
 - **Databases:** MySQL,Google BigQuery, MongoDB 
-- **Tools:** VSCode, Git, JIRA, Nano, 
+- **Tools:** VSCode, Git, Nano 
 ---
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
