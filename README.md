@@ -1,33 +1,26 @@
-# Hi there! 👋 I'm Minuka! 
----
-## 🚀 About Me  
-- 🌟 Enthusiast in **Data Analysis and Computational Biology**  
-- 🎯 Focused on creating **Scalable pipelines and data driven solutions**  
-- 💡  Always learning and exploring **new ways to CLEAN, PROCESS and analyze DATA!**
----
-## 🔧 Technologies & Tools  
+# Hi, I'm Minuka 👋
 
-Here are some tools and technologies I love to work with:  
+### 🧬 Welcome to the diary of a bioinformatician.
 
-- **Languages:** Python, JavaScript, R, SQL, Linux Bash Scripting 
-- **Frameworks & Libraries:** QIIME2, Minimap2, Pandas, NumPy, React
-- **Databases:** MySQL,Google BigQuery, MongoDB 
-- **Tools:** VSCode, Git, Nano 
----
-## 📈 GitHub Stats  
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
+I'm a bioinformatician based in Vancouver, Canada, with a passion for building reproducible bioinformatics workflows and turning sequencing data into meaningful biological insights.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=minuka819&layout=pie&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=minuka819&layout=pie&langs_count=4)
+This GitHub is where I document projects, experiments, and the occasional rabbit hole while working with genomic data.
 
----
-## 📬 Connect with Me    
-💼 [LinkedIn](https://www.linkedin.com/in/minukahp/)  
-📧 [Email](minukahp@gmail.com)  
-<!--- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 🌐 [Your Personal Website/Portfolio](https://your-website.com) -->   
----
-💻 **"Code, Run, Error, Debug, Repeat"**  
-<!---
-minuka819/minuka819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What you'll find here
+
+* 🧬 Bioinformatics pipelines
+* 🦠 Microbiome & metagenomics
+* 🧪 Next-generation sequencing (NGS)
+* 🐧 Linux & HPC automation
+* 📊 Data analysis in R & Python
+* ⚙️ Scripts that save me from doing the same thing twice
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=minuka819\&layout=pie\&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=minuka819&layout=pie&langs_count=4)
+
+## 📬 Connect
+
+💼 LinkedIn: <PRIVATE_URL>
+
+📧 [minukahp@gmail.com](mailto:minukahp@gmail.com)
+
+##"Code, run, debug, facepalm, repeat."
