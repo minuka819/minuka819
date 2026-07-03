@@ -17,7 +17,7 @@ Here are some tools and technologies I love to work with:
 ## 📈 GitHub Stats  
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minuka819&show_icons=true&theme=radical) --> 
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=minuka819)](https://github.com/stats-organization/github-stats-extended)
+[[![GitHub stats](https://github-stats-extended.vercel.app/api?username=minuka819)](https://github.com/stats-organization/github-stats-extended)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=4)
 
 ---
 ## 📬 Connect with Me    
